@@ -1,14 +1,12 @@
 # DELL_Latitude_5401_OpenCore0.8.9
 Some configs OpenCore for Dell Latitude 5401 Coffee Lake
 
-
 Dell Latitude 5401
 BIOS version 1.24.0
 
 Tested on Big Sir, Monterey, Ventura
 Using MacBookPro15,3 SMBIOS
 The EFI was designed for Monterey
-
 
 ## My Specs:
 
@@ -22,7 +20,7 @@ The EFI was designed for Monterey
 
 - Realtek ALC236 (Codec name in macos ALC236)
 
-- Storage: PC SN730 NVMe WDC 512GB (nvme slot) (MacOS-Catalina, Big Sur and Monterey)
+- Storage: PC SN730 NVMe WDC 512GB (nvme slot)
 
 - Network adapters: Intel(R) Wireless-AC 9560 BT+Wifi, I219-LM Intel Ethernet
 
