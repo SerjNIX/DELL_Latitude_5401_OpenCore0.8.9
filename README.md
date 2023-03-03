@@ -4,6 +4,8 @@ Some configs OpenCore for Dell Latitude 5401 Coffee Lake
 Dell Latitude 5401
 BIOS version 1.24.0
 
+![about and neofetch](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/3885eaba86a837e6541833d907e6ec0ed71ddec1/Pictures/Latitude5401.png)
+
 Tested on Big Sir, Monterey, Ventura
 Using MacBookPro15,3 SMBIOS
 The EFI was designed for Monterey
@@ -111,3 +113,10 @@ DVMT Total Gfx Mem = Max
     Command for set value modGRUBShell.efi: setup_var_3 0xA12 0x03
 =======================================================================
 ```
+
+![](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/main/Pictures/GB5.png)
+![](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/main/Pictures/IPG.png)
+![](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/main/Pictures/MFC.png)
+![](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/main/Pictures/touchpad.png)
+![](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/main/Pictures/VMX.png)
+![](https://github.com/SerjNIX/DELL_Latitude_5401_OpenCore0.8.9/blob/main/Pictures/videoproc2.png)
